@@ -60,11 +60,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
@@ -90,7 +88,7 @@
 
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicodiansk&show_icons=true&theme=merko) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicodiansk&show_icons=true&theme=aura) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nicodiansk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 
