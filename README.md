@@ -90,9 +90,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nicodiansk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicodiansk&show_icons=true&theme=merko) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nicodiansk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 
