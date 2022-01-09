@@ -23,7 +23,6 @@
 [<img align="left" alt="Gradle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />]
 [<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/tree/master/icons/visualstudio" />]
 
 <br />
 <br />
