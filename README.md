@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Nicholas, a full-time full-stack mobile developer 👨‍💻 and a computer engineer 🚀</div>  
+ ### <div align="center">I'm Nicholas, a full-time full-stack mobile developer 👨‍💻 and a computer engineer 🚀</div>  
   
 
 - 🥅 2022 Goals: Contribute more to Open Source projects, write some Android libraries, learn Jetpack Compose and develop some Machine Learning models into my apps.  
