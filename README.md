@@ -1,19 +1,15 @@
  ### <div align="center">I'm Nicholas, a full-time full-stack mobile developer 👨‍💻 and a computer engineer 🚀</div>  
   
 
-- 🥅 2022 Goals: Contribute more to Open Source projects, write some Android libraries, learn Jetpack Compose and develop some Machine Learning models into my apps.  
-  
+- 🥅 2024 Goals: Contribute more to Open Source projects, write some Android libraries, learn Jetpack Compose, develop Machine Learning models into my apps, and delve into AI, Computer Vision, LLM, and Vector Databases.
 
-- 🌱 I’m currently learning the deep dark side of Android development, everything behind the scenes  
-  
+- 🌱 I’m currently learning the deep dark side of Android development, everything behind the scenes, and exploring the realms of AI and Computer Vision.
 
-- 👯 I’m always looking to collaborate with other people, I love team work!  
-  
+- 👯 I’m always looking to collaborate with other people, I love team work!
 
-- ❓ Ask me about anything related to Android development and I'll be very happy to help!  
-  
+- ❓ Ask me about anything related to Android development, AI, Computer Vision, and I'll be very happy to help!
 
-- ⚡ Cool facts that nobody cares about: I love to play the guitar and JDM Cars. Also, I have a fetish for Clean Architecture.  
+- ⚡ Cool facts that nobody cares about: I love to play the guitar and JDM Cars. Also, I have a fetish for Clean Architecture.
   
 
 <br/>  
