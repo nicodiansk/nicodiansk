@@ -1,59 +1,66 @@
-### <div align="center">Hi, I'm Nicholas 👨‍💻🚀 AI Engineer, Generative AI Specialist, and Mobile Developer</div>  
+# 👨‍💻 Nicholas Previtali – Lead AI Engineer & GenAI Specialist
 
-  
-**🎯 2024 Goals:**  
-- Contribute to Open Source projects in AI and Machine Learning.
-- Integrate ML models into my apps and explore deeper applications of Computer Vision, LLMs, and Vector Databases.
-  
-**🌱 Currently exploring:**  
-- Retrieval-Augmented Generation (RAG) systems, Generative AI, and multimodal solutions to push AI boundaries.
-
-**🤝 Collaboration goals:**  
-- I love teamwork and am always open to collaborating on exciting AI and software projects.
-
-**⚡ Fun facts:**  
-- I’m passionate about tattoos, love playing guitar, and am a fan of JDM cars!
-  
+Building intelligent systems that combine LLMs, Vision, and Automation.
 
 ---
 
-## 🛠️ My Skills and Expertise  
+## 🚀 2025 Focus Areas
+- Design and deployment of advanced **RAG pipelines** (with auto-retrieval & hybrid search)
+- Engineering **multimodal AI systems** combining text, vision, and tools
+- Production-grade **Generative AI applications** using LangChain, LangGraph, and Azure AKS
 
-### AI & Machine Learning  
-- **Retrieval-Augmented Generation (RAG):** Developing RAG pipelines, utilizing auto-retrieval for optimized metadata filters, and building multimodal RAG systems combining text, images, and real-time internet search.
-- **Generative AI:** Designing multi-agent solutions for automated tasks like report generation, presentations, and data analysis with tools like Langchain, LangGraph, and LangSmith.
-- **Computer Vision:** Creating applications from eCommerce search engines (text and image-based) to innovative accessibility solutions in mobile UI.
-- **NLP & LLMs:** Deep experience with large language models and natural language processing for conversational and generative applications.
+## 🔬 Currently exploring
+- LLM Orchestration, Memory Architectures, Context-Aware Agents  
+- Agentic RAGs with long-context compression and actions  
+- GenAI for accessibility, automation, and business intelligence
 
-### Software & Cloud Deployment  
-- **Azure Services:** Expert in scalable deployments with Azure Kubernetes Service, App Service, and Docker for creating robust, cloud-based AI solutions.
-- **Cross-Platform Development:** Significant experience in mobile development (Android, iOS, and Flutter) with a focus on integrating ML and AI into apps.
-  
+## 🤝 Let's collaborate on
+- AI tools with real-world impact  
+- RAG-powered bots & retrieval systems  
+- Open-source AI frameworks or plugins (Langchain, LlamaIndex, etc.)
 
-## 🧰 Tech Stack  
+## 🎸 Fun facts
+- Big into tattoos, JDM cars, and writing guitar solos nobody asked for
 
-| / | / | / |
-|-------------------|-----------------|--------------------|
-| <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="50" height="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> |
-| <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" width="50" height="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" width="50" height="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/> |
-| <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="50" height="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="50" height="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="50" height="50"/> |
-| <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" width="50" height="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" width="50" height="50"/> | <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50"/> |
+---
 
+## 🧠 What I Build
 
-## 📊 GitHub Stats  
+| 🧩 | Projects (Under NDA) | Technologies Used |
+|-----|-----------------------|--------------------|
+| 🎓 Multimodal Legal RAG Assistant | Custom retrieval + summarization bot for legal teams | LangChain, FastAPI, Pinecone, GPT-4 |
+| 🧾 AI Report Generator Agent | Auto-generates Excel/PDF reports with custom logic | LangGraph, LangSmith, Azure AKS |
+| 🛍️ eCommerce Vision Search | Image & text similarity-based product discovery | CNNs, CV Pipelines, Qdrant |
+| 🤖 Mobile UI Cleaner | Vision model to remove menus and enable accessibility | SwiftUI, Android, OpenCV, ONNX |
+| 📈 Hybrid Recommender System | Combines syntactic and semantic filters + embeddings | Pinecone, custom rankers, RAG |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicodiansk&show_icons=true&theme=aura)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=nicodiansk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicodiansk&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+*More in my Notion portfolio (coming soon).*
 
+---
 
-## 🎶 Connect & Follow  
+## ⚙️ My Tech Stack
 
-<a href="https://gitlab.com/nicholasprevitali96" target="_blank"><img src="https://img.shields.io/badge/gitlab-%2324292e.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-<a href="https://linkedin.com/in/nicholas-previtali-660b83190" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/nicholas.previtali.7" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Azure](https://img.shields.io/badge/Azure_Kubernetes_Service-0089D6?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=for-the-badge)
+![GPT-4](https://img.shields.io/badge/GPT--4-8B008B?style=for-the-badge&logo=openai)
+![Qdrant](https://img.shields.io/badge/Qdrant-333366?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0078D4?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/CV-CNN&OpenCV-blueviolet?style=for-the-badge)
 
-  
-![Profile Views](https://komarev.com/ghpvc/?username=nicodiansk&&style=flat-square)  
+---
 
---- 
+## 📈 GitHub Stats
+
+![Nicholas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicodiansk&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodiansk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-660b83190-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicholas-previtali-660b83190/)
+[![GitLab](https://img.shields.io/badge/GitLab-nicholasprevitali96-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/nicholasprevitali96)
