@@ -24,6 +24,7 @@
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/⚡_ENTER_THE_GRID-0D1117?style=for-the-badge&logo=githubpages&logoColor=00F0FF&labelColor=FF00FF)](https://nicodiansk.github.io/nicodiansk.dev)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/nicholas-previtali-660b83190/)
 [![Email](https://img.shields.io/badge/EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:nicholasprevitali96@gmail.com)
 [![GitLab](https://img.shields.io/badge/GITLAB-39FF14?style=for-the-badge&logo=gitlab&logoColor=0D1117)](https://gitlab.com/nicholasprevitali96)
@@ -220,7 +221,31 @@ CNNs // TRANSFER_LEARNING // FINE_TUNING // OBJECT_DETECTION // SIMILARITY_SEARC
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nicodiansk&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=nicodiansk&theme=darkhub&no-frame=true&column=4&row=2&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## `>_ NEURAL.LINK`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ░█▀▀░█▀█░▀█▀░█▀▀░█▀▄░░░▀█▀░█░█░█▀▀░░░█▀▀░█▀▄░▀█▀░█▀▄                      ║
+║   ░█▀▀░█░█░░█░░█▀▀░█▀▄░░░░█░░█▀█░█▀▀░░░█░█░█▀▄░░█░░█░█                      ║
+║   ░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀░░░░▀░░▀░▀░▀▀▀░░░▀▀▀░▀░▀░▀▀▀░▀▀░                      ║
+║                                                                              ║
+║            [ CYBERPUNK PORTFOLIO • INTERACTIVE EXPERIENCE ]                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+[![JACK_IN](https://img.shields.io/badge/▶_JACK_IN_TO_CYBERSPACE-FF00FF?style=for-the-badge&logo=matrix&logoColor=00F0FF&labelColor=0D1117)](https://nicodiansk.github.io/nicodiansk.dev)
+
+<sub>🔗 <code>nicodiansk.github.io/nicodiansk.dev</code> • Immersive cyberpunk experience • Built with neon dreams</sub>
 
 </div>
 
